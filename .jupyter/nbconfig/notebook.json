@@ -1,0 +1,25 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "jupyter-js-widgets/extension": false,
+    "ipysheet/extension": false,
+    "ipysheet/extension-renderer": false,
+    "snippets_menu/main": true,
+    "help_panel/help_panel": false,
+    "snippets/main": true,
+    "scratchpad/main": true,
+    "zenmode/main": true,
+    "scroll_down/main": true,
+    "navigation-hotkeys/main": true,
+    "hinterland/hinterland": true,
+    "varInspector/main": true,
+    "notify/notify": true,
+    "code_prettify/code_prettify": true,
+    "toc2/main": false,
+    "codefolding/main": true,
+    "code_prettify/autopep8": false,
+    "keyboard_shortcut_editor/main": true
+  },
+  "scrollDownIsEnabled": false
+}

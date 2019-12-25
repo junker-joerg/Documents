@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "Exporter": {
+    "template_path": [
+      ".",
+      "/var/mobile/Containers/Data/Application/9961021A-6CE5-4AB6-8B50-D936B091EBE9/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/E718CDF7-619F-4448-9194-66C9AB99CFBD/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/A398BDFD-07BA-4544-BA29-7C515939DDC0/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/D8935066-0661-449E-B3AA-D45A8DADDB0F/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/098D32EC-573F-4CB2-B548-E8B6E7815882/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/DC414450-DC6C-4B4B-A544-3392AD1F106B/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/B69BE012-C71C-448D-8C91-0892C168BFC5/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/0BA188CA-E9C3-43C9-95B1-07DECEAB16B8/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates"
+    ],
+    "preprocessors": [
+      "jupyter_contrib_nbextensions.nbconvert_support.CodeFoldingPreprocessor",
+      "jupyter_contrib_nbextensions.nbconvert_support.PyMarkdownPreprocessor"
+    ]
+  }
+}
