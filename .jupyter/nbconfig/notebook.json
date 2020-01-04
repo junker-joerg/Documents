@@ -4,9 +4,9 @@
     "contrib_nbextensions_help_item/main": true,
     "jupyter-js-widgets/extension": false,
     "ipysheet/extension": false,
-    "ipysheet/extension-renderer": false,
+    "ipysheet/extension-renderer": true,
     "snippets_menu/main": true,
-    "help_panel/help_panel": false,
+    "help_panel/help_panel": true,
     "snippets/main": true,
     "scratchpad/main": true,
     "zenmode/main": true,
@@ -19,7 +19,11 @@
     "toc2/main": false,
     "codefolding/main": true,
     "code_prettify/autopep8": false,
-    "keyboard_shortcut_editor/main": true
+    "keyboard_shortcut_editor/main": true,
+    "hide_input/main": true,
+    "hide_header/main": true,
+    "python-markdown/main": true,
+    "runtools/main": true
   },
-  "scrollDownIsEnabled": false
+  "scrollDownIsEnabled": true
 }
