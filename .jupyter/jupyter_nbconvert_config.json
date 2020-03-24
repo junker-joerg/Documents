@@ -11,7 +11,9 @@
       "/var/mobile/Containers/Data/Application/DC414450-DC6C-4B4B-A544-3392AD1F106B/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
       "/var/mobile/Containers/Data/Application/B69BE012-C71C-448D-8C91-0892C168BFC5/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
       "/var/mobile/Containers/Data/Application/0BA188CA-E9C3-43C9-95B1-07DECEAB16B8/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
-      "/var/mobile/Containers/Data/Application/1B622CDA-BFBA-4779-9BA1-C4C3889D2BE6/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates"
+      "/var/mobile/Containers/Data/Application/1B622CDA-BFBA-4779-9BA1-C4C3889D2BE6/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/31F85C57-1897-4877-8FC3-79C36EF1B12F/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates",
+      "/var/mobile/Containers/Data/Application/B0A488AD-B715-4316-9384-DAC68A0C666F/Library/lib/python3.7/site-packages/jupyter_contrib_nbextensions-0.5.1-py3.7.egg/jupyter_contrib_nbextensions/templates"
     ],
     "preprocessors": [
       "jupyter_contrib_nbextensions.nbconvert_support.CodeFoldingPreprocessor",

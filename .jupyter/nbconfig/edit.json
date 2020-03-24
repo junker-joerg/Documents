@@ -2,5 +2,10 @@
   "load_extensions": {
     "ruler/edit": true,
     "codefolding/edit": true
+  },
+  "Editor": {
+    "file_extension_modes": {
+      ".py": "Python"
+    }
   }
 }

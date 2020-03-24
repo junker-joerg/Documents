@@ -2,8 +2,8 @@
   "load_extensions": {
     "nbextensions_configurator/config_menu/main": true,
     "contrib_nbextensions_help_item/main": true,
-    "jupyter-js-widgets/extension": false,
-    "ipysheet/extension": false,
+    "jupyter-js-widgets/extension": true,
+    "ipysheet/extension": true,
     "ipysheet/extension-renderer": true,
     "snippets_menu/main": true,
     "help_panel/help_panel": true,
@@ -23,7 +23,10 @@
     "hide_input/main": true,
     "hide_header/main": true,
     "python-markdown/main": true,
-    "runtools/main": true
+    "runtools/main": true,
+    "autosavetime/main": true,
+    "autoscroll/main": true
   },
-  "scrollDownIsEnabled": true
+  "scrollDownIsEnabled": false,
+  "autosavetime_set_starting_interval": true
 }
