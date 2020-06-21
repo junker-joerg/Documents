@@ -23,10 +23,12 @@
     "hide_input/main": true,
     "hide_header/main": true,
     "python-markdown/main": true,
-    "runtools/main": true,
+    "runtools/main": false,
     "autosavetime/main": true,
-    "autoscroll/main": true
+    "autoscroll/main": true,
+    "ruler/main": false,
+    "code_prettify/2to3": true
   },
-  "scrollDownIsEnabled": false,
+  "scrollDownIsEnabled": true,
   "autosavetime_set_starting_interval": true
 }
